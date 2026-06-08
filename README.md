@@ -28,4 +28,4 @@ Each folder in this repository contains a comprehensive breakdown of the project
 │   ├── Dashboards/                    # Power BI (.pbix) files
 │   └── README.md                      # Detailed project write-up
 ├── 02_GenAI_Student_Impact_Study/     # Student Impact Analysis
-└── 03_Social_Media_Analysis/          # Growth & Engagement Metrics
+                                       # Growth & Engagement Metrics
