@@ -8,7 +8,7 @@ By simulating massive, real-world network loads, infrastructure types (4G, 5G, F
 ---
 ## 🛠️ Tech Stack & Architecture
 * **Data Simulation & Pipeline:** Python (`pandas`, `numpy`, `sqlalchemy`, `pymysql`)
-* **Database & Warehousing:** MySQL Server (Relational star-schema modeling, DDL scripting, performance-optimized SQL Views)
+* **Database & Warehousing:** MySQL Server (Relational star-schema modeling, performance-optimized SQL Views)
 * **Business Intelligence:** Power BI Desktop, DAX (Data Analysis Expressions)
 
 ---
