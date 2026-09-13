@@ -32,4 +32,4 @@ The data is structured as an optimized **Star Schema** to ensure high-performanc
 
 
 ---
-**Developed by Barnabas Nartey | Data Analyst & Telecommunication Engineering Specialist**
+**Developed by Barnabas Nartey | Data Analyst & Telecommunication Engineering graduate**
