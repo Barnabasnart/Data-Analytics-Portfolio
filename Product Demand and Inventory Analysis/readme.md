@@ -38,7 +38,7 @@ This project processes inventory telemetry, order fulfillments, and stock level 
 
 ## 📷 Screenshots
 
-
+<img src="Product demand and Inventory Dashboard.jpg" alt="Product Demand and Inventory Analysis Dashboard" width="100%" />
 
 ## 🚀 Key Insights & Outcomes
 * **Stock Optimization:** Identified critical fast-moving SKU lines reaching reorder points ahead of standard lead times, preventing potential stockouts.
