@@ -56,6 +56,8 @@ This project simulates enterprise-grade cellular network telemetry, combining co
 * **Power BI & DAX** — Advanced data modeling, custom measures, and interactive reporting utilizing a clean 3-tier layout with custom gold-accented styling.
 
 ---
+## Screenshot
+<img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/8c660fb5-8a20-4c64-b42f-e06a2f8770b4" />
 
 ## 🚀 Key Insights & Outcomes
 
