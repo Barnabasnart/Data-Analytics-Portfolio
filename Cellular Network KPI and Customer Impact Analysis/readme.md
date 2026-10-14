@@ -57,7 +57,7 @@ This project simulates enterprise-grade cellular network telemetry, combining co
 
 ---
 ## Screenshot
-<img width="1600" height="739" alt="image" src="https://github.com/user-attachments/assets/8c660fb5-8a20-4c64-b42f-e06a2f8770b4" />
+<img src="Cellular Network Dashboard.jpg" alt="Telecom Network Performance Dashboard" width="100%" />
 
 ## 🚀 Key Insights & Outcomes
 
