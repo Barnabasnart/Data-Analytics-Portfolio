@@ -59,6 +59,8 @@ This project presents an enterprise-grade analytics solution evaluating **50,000
 * **Business Insight:** While data throughput remains relatively uniform (~79–81 Mbps), packet loss fluctuates significantly—peaking in **Ashanti (2.61%)** and **Northern (2.58%)**.
 
 ---
+## Screenshot
+<img src="NCA Compliance Analysis.jpg" alt="NCA Compliance Analysis Dashboard" width="100%" />
 
 ## 🛠️ Technical Stack & Architecture
 
